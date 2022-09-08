@@ -1,0 +1,20 @@
+[
+    {
+     "title": "Grafica1",
+     "price": 90000,
+     "thumbnail": "https://nissei.com/media/catalog/product/cache/16a9529cefd63504739dab4fc3414065/m/s/msi_radeon_rx6600_xt_mech_2x_oc_-_1_1.jpg",
+     "id": 1
+    },
+    {
+     "title": "Grafica2",
+     "price": 145000,
+     "thumbnail": "https://images.evga.com/products/gallery/08G-P5-3755-KL_XL_1.jpg",
+     "id": 2
+    },
+    {
+     "title": "Procesador",
+     "price": 65000,
+     "thumbnail": "https://www.manopc.net/im/sq-intel-core-i5-12600k-procesador-20-mb-smart-cache-caja_i/84bbbfde-bb61-4fe7-9ab0-70d7cb698114.jpg",
+     "id": 3
+    }
+   ]
